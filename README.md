@@ -22,6 +22,11 @@
 - Clean and filtered data to meet the specidicatons above.
 - Used an API to extract box office revenue and profit data to add to your IMDB data and perform exploratory data analysis.
 - Construct and export a MySQL database using combined data ('imdb_id','budget','revenue', 'certification')
+#### Visualazations:
+![image](https://user-images.githubusercontent.com/104885846/193429754-0f70ce74-c59f-49de-871e-27a341d4ffc6.png)
+![image](https://user-images.githubusercontent.com/104885846/193429770-4328e4d5-a9da-427a-9718-5237a946e636.png)
+![image](https://user-images.githubusercontent.com/104885846/193429779-1a54fdeb-a65a-4701-8901-b1f48cbb6e5e.png)
+
 #### Results/ Recommendations:
 The genre of a movie doesnt affect how much a revenue a movie genrates. Movies with higher budgets haf a higher revuenue. I would recommend 
 ## For Further Information:
